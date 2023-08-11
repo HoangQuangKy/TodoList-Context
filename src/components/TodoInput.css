@@ -1,0 +1,12 @@
+.todoInput {
+    height: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.inputForm {
+    background-color: #E1C1AC;
+    padding: 15px;
+}

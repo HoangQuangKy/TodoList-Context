@@ -1,0 +1,21 @@
+.ButtonContainer {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn {
+    padding: 15px;
+    background-color: #9C3A39;
+    border: none;
+    margin-right: 5px;
+}
+
+.add {
+    background-color: black;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+}
